@@ -1,0 +1,1001 @@
+{
+  "profession": "villagersplus:oceanographer",
+  "trades": {
+    "apprentice": [
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:cup_coral",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 3
+        },
+        "max_uses": 12,
+        "villager_experience": 3
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:ghost_coral",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 3
+        },
+        "max_uses": 12,
+        "villager_experience": 3
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:slate_coral",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 3
+        },
+        "max_uses": 12,
+        "villager_experience": 3
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:stone_coral",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 3
+        },
+        "max_uses": 12,
+        "villager_experience": 3
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:thorn_coral",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 3
+        },
+        "max_uses": 12,
+        "villager_experience": 3
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:cocoa_coral",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 3
+        },
+        "max_uses": 12,
+        "villager_experience": 3
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:passion_coral",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 3
+        },
+        "max_uses": 12,
+        "villager_experience": 3
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:toxic_coral",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 3
+        },
+        "max_uses": 12,
+        "villager_experience": 3
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:gem_coral",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 3
+        },
+        "max_uses": 12,
+        "villager_experience": 3
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:diamond_coral",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 3
+        },
+        "max_uses": 12,
+        "villager_experience": 3
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:anchor_coral",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 3
+        },
+        "max_uses": 12,
+        "villager_experience": 3
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:cup_coral",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_cup_coral",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 3
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:ghost_coral",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_ghost_coral",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 3
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:slate_coral",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_slate_coral",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 3
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:stone_coral",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_stone_coral",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 3
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:thorn_coral",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_thorn_coral",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 3
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:cocoa_coral",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_cocoa_coral",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 3
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:passion_coral",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_passion_coral",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 3
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:toxic_coral",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_toxic_coral",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 3
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:gem_coral",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_gem_coral",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 3
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:diamond_coral",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_diamond_coral",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 3
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:anchor_coral",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_anchor_coral",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 3
+      }
+    ],
+    "journeyman": [
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:cup_coral_fan",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 3
+        },
+        "max_uses": 12,
+        "villager_experience": 4
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:ghost_coral_fan",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 3
+        },
+        "max_uses": 12,
+        "villager_experience": 4
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:slate_coral_fan",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 3
+        },
+        "max_uses": 12,
+        "villager_experience": 4
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:stone_coral_fan",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 3
+        },
+        "max_uses": 12,
+        "villager_experience": 4
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:thorn_coral_fan",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 3
+        },
+        "max_uses": 12,
+        "villager_experience": 4
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:cocoa_coral_fan",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 3
+        },
+        "max_uses": 12,
+        "villager_experience": 4
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:passion_coral_fan",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 3
+        },
+        "max_uses": 12,
+        "villager_experience": 4
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:toxic_coral_fan",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 3
+        },
+        "max_uses": 12,
+        "villager_experience": 4
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:gem_coral_fan",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 3
+        },
+        "max_uses": 12,
+        "villager_experience": 4
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:diamond_coral_fan",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 3
+        },
+        "max_uses": 12,
+        "villager_experience": 4
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:anchor_coral_fan",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 3
+        },
+        "max_uses": 12,
+        "villager_experience": 4
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:cup_coral_fan",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_cup_coral_fan",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:ghost_coral_fan",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_ghost_coral_fan",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:slate_coral_fan",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_slate_coral_fan",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:stone_coral_fan",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_stone_coral_fan",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:thorn_coral_fan",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_thorn_coral_fan",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:cocoa_coral_fan",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_cocoa_coral_fan",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:passion_coral_fan",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_passion_coral_fan",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:toxic_coral_fan",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_toxic_coral_fan",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:gem_coral_fan",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_gem_coral_fan",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:diamond_coral_fan",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_diamond_coral_fan",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:anchor_coral_fan",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_anchor_coral_fan",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 5
+      }
+    ],
+    "expert": [
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:cup_coral_block",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 5
+        },
+        "max_uses": 12,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:ghost_coral_block",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 5
+        },
+        "max_uses": 12,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:slate_coral_block",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 5
+        },
+        "max_uses": 12,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:stone_coral_block",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 5
+        },
+        "max_uses": 12,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:thorn_coral_block",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 5
+        },
+        "max_uses": 12,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:cocoa_coral_block",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 5
+        },
+        "max_uses": 12,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:passion_coral_block",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 5
+        },
+        "max_uses": 12,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:toxic_coral_block",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 5
+        },
+        "max_uses": 12,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:gem_coral_block",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 5
+        },
+        "max_uses": 12,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:diamond_coral_block",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 5
+        },
+        "max_uses": 12,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:sell_item",
+        "sell": {
+          "item": "clutter:anchor_coral_block",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 5
+        },
+        "max_uses": 12,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:cup_coral_block",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_cup_coral_block",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:ghost_coral_block",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_ghost_coral_block",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:slate_coral_block",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_slate_coral_block",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:stone_coral_block",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_stone_coral_block",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:thorn_coral_block",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_thorn_coral_block",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:cocoa_coral_block",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_cocoa_coral_block",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:passion_coral_block",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_passion_coral_block",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:toxic_coral_block",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_toxic_coral_block",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:gem_coral_block",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_gem_coral_block",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:diamond_coral_block",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_diamond_coral_block",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 5
+      },
+      {
+        "type": "villagersplus:process_item",
+        "sell": {
+          "item": "clutter:anchor_coral_block",
+          "count": 1
+        },
+        "convertible": {
+          "item": "clutter:dead_anchor_coral_block",
+          "count": 1
+        },
+        "priceIn": {
+          "item": "emerald",
+          "count": 1
+        },
+        "max_uses": 8,
+        "villager_experience": 5
+      }
+    ]
+  }
+}
