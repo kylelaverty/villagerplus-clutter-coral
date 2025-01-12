@@ -2,6 +2,8 @@
 
 This is a simple data pack for adding all the various coral types from clutter to the villager plus' Oceanographer trades.
 
+## Changes
+
 These were added:
 
 | Source        | Coral Type | Coral Name               | Item Code                        | Villager      | Level      | Trade Type   | Added |
@@ -72,3 +74,8 @@ These were added:
 | Mod - Clutter | Dead Fan   | Dead Gem Coral Fan       | clutter:dead_gem_coral_fan       | Oceanographer | Journeyman | Process Item | ✅    |
 | Mod - Clutter | Dead Fan   | Dead Diamond Coral Fan   | clutter:dead_diamond_coral_fan   | Oceanographer | Journeyman | Process Item | ✅    |
 | Mod - Clutter | Dead Fan   | Dead Anchor Coral Fan    | clutter:dead_anchor_coral_fan    | Oceanographer | Journeyman | Process Item | ✅    |
+
+## References
+
+- [Minecraft Wiki - Trading](https://minecraft.wiki/w/Trading)
+- [VillagersPlus - Adding Trades to Villagers](https://github.com/finallion/VillagersPlus?tab=readme-ov-file#adding-trades-to-villagers)
